@@ -31,7 +31,26 @@ Additionally, the following soft skills will greatly impact your performance:
 
 You are in the middle of a hiring process for a local startup that's looking for a React developer, and you have been assigned a challenge to complete. The task involves demonstrating proficiency with basic React moves like fetching data, building interactive components and using hooks.
 
-Specifically, you need to complete a website that displays a list of Star Wars characters along with their basic information such as ID, name, date of birth, and home world. Users of the app should be able to click on a character to expand some information about the character's home world. You can refer to the [full mockup](https://bloominstituteoftechnology.github.io/W_U2_S6_sprint_challenge) to have an idea of the design.
+
+
+
+
+
+
+
+
+
+
+Specifically, you need to complete a website that displays a list of Star Wars characters along with their basic information such as 
+ID, 
+name, 
+date of birth, and 
+home world. Users of the app should be able to 
+
+click on a character to expand some information about the character's home world. 
+
+
+You can refer to the [full mockup](https://bloominstituteoftechnology.github.io/W_U2_S6_sprint_challenge) to have an idea of the design.
 
 To help you complete the task, several members of your team will provide you with instructions and advice.
 
@@ -131,7 +150,21 @@ Once you have the responses from Endpoints A and B stored inside variables, chec
 ]
 ```
 
-Once you have the data in the right shape stored in App state, you can **start working on your `/frontend/components/Character.js` component** that takes in the information about a single character via props. You will use this component inside App.js, looping over the data held in App state and rendering a Character at each iteration of the loop.
+Once you have the data in the right shape stored in App state, you can **start working on your `/frontend/components/Character.js` component** that takes in the information about a single character via props. You will 
+
+
+
+
+
+
+
+
+
+
+
+
+
+use this component inside App.js, looping over the data held in App state and rendering a Character at each iteration of the loop.
 
 Make sure that each character that renders to the DOM has the **exact same class names and text contents** as those in the design! Also, render the characters **in the same order** as they arrive from Endpoint A.
 
